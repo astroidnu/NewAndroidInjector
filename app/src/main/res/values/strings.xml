@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewAndroidInjector</string>
+    <string name="validate_username_valid">Username valid !</string>
+    <string name="validate_username_notvalid">Username not valid !</string>
+</resources>
